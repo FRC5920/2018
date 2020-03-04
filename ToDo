@@ -1,0 +1,51 @@
+
+Team 5920 Todo
+
+-------- High Priority
+Autonomous selection from dashboard.
+https://wpilib.screenstepslive.com/s/4485/m/26401/l/255419-choosing-an-autonomous-program-from-smartdashboard
+
+
+Add pneumatics to testbot
+
+Verify all laptops are updated:
+	wpilibrary lastest?
+	ctr libraries
+	
+
+Look into motion profile generator
+https://github.com/vannaka/Motion_Profile_Generator
+
+-------- Low Priority
+
+move to non-deprecated Networktables
+https://www.chiefdelphi.com/forums/showthread.php?t=161240
+
+
+
+
+------- things to know
+Internet explorer 172.22.11.2 to get to the config page
+
+bot IP when tethered 172.22.11.2
+bot IP when wireless 10.59.20.11
+
+Camera View http://10.59.20.11:5800/
+Camera interface http://10.59.20.11:5801/
+
+CANBUS setup
+https://github.com/CrossTheRoadElec/Phoenix-Documentation/blob/master/README.md
+
+Source / Reference files
+NavX
+https://www.pdocs.kauailabs.com/navx-mxp/software/roborio-libraries/java/
+*/
+PDP info
+http://first.wpi.edu/FRC/roborio/release/docs/java/
+Driver Station info
+https://wpilib.screenstepslive.com/s/3120/m/7912/l/133045-driver-station-input-overview
+
+
+basic code examples.
+https://github.com/Team254/FRC-2016-Public/tree/master/src/com/team254/frc2016
+https://github.com/Team254/FRC-2017-Public/tree/master/src/com/team254/frc2017
